@@ -7,9 +7,9 @@ tsc
 2.npm project to run the typescriopt file
 
 ```
-npx tsc-node index.ts
+npx ts-node index.ts
 
-yarn tsc-node index.ts
+yarn ts-node index.ts
 ```
 
 [tsnode](https://www.npmjs.com/package/ts-node)
