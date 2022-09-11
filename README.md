@@ -20,3 +20,9 @@ yarn tsc-node index.ts
 npx tslint --init
 ```
 
+4.quick commit a file:add all and commit 
+
+```
+git commit -a -m 'move index.ts to src'
+```
+
